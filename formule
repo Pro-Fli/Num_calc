@@ -9,3 +9,7 @@ P + ½ρV2 = P0
 (hydro)static pressure + dynamic pressure = total pressure
 [internal energy + kinetic energy = total energy]
 
+Bernoulli’s Equation for Compressible Flow
+
+(P0/P) = {1 + [(γ-1)/2]M2 }[(γ-1)/(γ)]
+
